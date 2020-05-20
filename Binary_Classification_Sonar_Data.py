@@ -1,10 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
-#Iris Dataset Step by Step
+#Binary Classification of Sonar Data
 
 
 # 1. Prepare Problem
